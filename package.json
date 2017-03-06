@@ -1,10 +1,10 @@
 {
-  "name": "kuneQS",
+  "name": "Diego",
   "version": "0.0.1",
-  "description": "QuickStart project with GulpJS, Stylus, AutoPrefixer, BrowserSync & Connect PHP.",
+  "description": "QuickStart project with GulpJS, Stylus, AutoPrefixer, BrowserSync, ES6, Babel, & Connect PHP.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kunegun/kuneQS.git"
+    "url": "git+https://github.com/diego-albert/basic-skeleton-project-es6.git"
   },
   "keywords": [
     "frontend"
@@ -13,7 +13,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Gonzalo Ribera - Kune <kunegun@gmail.com> (http://kune.es)",
+  "author": "Diego Albert <diegoalbert89@gmail.com> (http://diegoalbert.com)",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer-stylus": "^0.9.4",

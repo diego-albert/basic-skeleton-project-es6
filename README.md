@@ -1,4 +1,4 @@
-kuneQuickStart
+DiegoQuickStart
 =============================
 
-QuickStart project with GulpJS, Stylus, AutoPrefixer, BrowserSync & Connect PHP.
+QuickStart project with GulpJS, Stylus, AutoPrefixer, BrowserSync, ES6, Babel & Connect PHP.
