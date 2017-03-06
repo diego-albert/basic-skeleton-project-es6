@@ -7,7 +7,7 @@
 
 # THANKS
 
-  <name>
+  thank you kune - Gonzalo Ribera for your code "http://kune.es/"
 
 # TECHNOLOGY COLOPHON
 
